@@ -1,7 +1,7 @@
 # Contador
 
 
-Projeto de um Contador de números desenvolvido na aula da @stebsnusch.
+Projeto de um Contador de números desenvolvido na aula da @stebsnusch, durante o Spread Bootcamp na plataforma da DIO.
 
 Ela ensinou como criar o contador e deixou os seguintes desafios:
 
